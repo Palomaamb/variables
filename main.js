@@ -3,6 +3,8 @@ const Rock = "🎸 Rock"
 const HardRock = "🤘 Hard Rock"
 const Clásica = "🎼 Clásica"
 
+const estiloTitulo = "color:black; font-size:18px; font-weight:bold; background-color:green";
+
 const grupo1 = {
     nombre: "The Beatles",
     añodefundación: "1960",
@@ -44,4 +46,8 @@ console.log(grupo3);
 console.log(grupo4);
 console.log(grupo5);
 
-console.log(nombre); "color:black; font-size:18px; font-weight:bold; background-color:green";
+console.log(`%c${grupo1.nombre}`, estiloTitulo);
+console.log(`%c${grupo2.nombre}`, estiloTitulo);
+console.log(`%c${grupo3.nombre}`, estiloTitulo);
+console.log(`%c${grupo4.nombre}`, estiloTitulo);
+console.log(`%c${grupo5.nombre}`, estiloTitulo);
