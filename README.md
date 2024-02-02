@@ -1,9 +1,7 @@
 # variables
 
-![Captura de pantalla (55)](https://github.com/Palomaamb/variables/assets/143645002/97efc6f9-cc3f-4ec9-9cc7-7cdefcc714e6)
-![Captura de pantalla (56)](https://github.com/Palomaamb/variables/assets/143645002/a1deaff5-bfe1-4c7f-89ab-b2783470890a)
-![Captura de pantalla (57)](https://github.com/Palomaamb/variables/assets/143645002/7012f471-28ea-446c-845d-9de6700c9302)
-
-He intentado poner los grupos en negrita, cambiar la fuente a más grande y color de fondo verde, pero no lo reconoce.
-
-![Captura de pantalla (54)](https://github.com/Palomaamb/variables/assets/143645002/899fa847-fe46-42ca-97fb-802326468c64)
+![Captura de pantalla (58)](https://github.com/Palomaamb/variables/assets/143645002/7b782042-e159-4a36-93b3-b803bae961a8)
+![Captura de pantalla (59)](https://github.com/Palomaamb/variables/assets/143645002/13a51916-81e1-477c-93e4-bac6d10e8cf4)
+![Captura de pantalla (60)](https://github.com/Palomaamb/variables/assets/143645002/ed9ab430-b666-416f-b8ed-edee1302f5c6)
+![Captura de pantalla (61)](https://github.com/Palomaamb/variables/assets/143645002/afa01498-6fe1-409e-8db2-ad9d4b780544)
+![Captura de pantalla (62)](https://github.com/Palomaamb/variables/assets/143645002/6797af7b-8d1b-4b56-9d9d-15181c1c172c)
